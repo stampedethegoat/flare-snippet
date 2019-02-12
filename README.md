@@ -8,7 +8,7 @@
 ### Usage
 Run `git clone git@github.com:stampedethegoat/flare-snippet.git`    
 Then run the `unzipper.sh` script with the 1st argument as your zipped file.    
-For example: `unzipper.sh abc.zip` and you will see it work
+For example: `./unzipper.sh abc.zip` and you will see it work
 
 ### Version Control
 
